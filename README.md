@@ -129,6 +129,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - isfescii@gamail.com
+Fredrick Femar Ochieng - isfescii@gamail.com
 
 Project Link: https://github.com/aduki-Inc/sando
