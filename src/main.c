@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "server/server.h"
-#include "config/server_config.h"
+#include "config/server.h"
 
 int main() {
 	printf("Starting VoIP Signaling Server...\n");
